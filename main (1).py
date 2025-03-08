@@ -1,0 +1,6 @@
+name=input("give me name")
+age=int(input("give me age"))
+height=int(input("give me height"))
+print(name)
+print(age)
+print(height)
